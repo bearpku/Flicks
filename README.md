@@ -19,10 +19,7 @@ Time spent: 4  hours spent in total
 
 Here's a walkthrough of implemented user stories:
 
-#### loading
-![list](https://cl.ly/1a1c193O2r1Z/Screen%20Recording%202017-03-27%20at%2005.38%20PM.gif)
-
-#### Rotate
-![rotate](https://cl.ly/1u251L2p3W1R/Screen%20Recording%202017-03-27%20at%2005.40%20PM.gif)
+[list](https://cl.ly/1a1c193O2r1Z/Screen%20Recording%202017-03-27%20at%2005.38%20PM.gif)
+[rotate](https://cl.ly/1u251L2p3W1R/Screen%20Recording%202017-03-27%20at%2005.40%20PM.gif)
 
 
